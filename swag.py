@@ -1,4 +1,4 @@
-print ("me and hinni are swag bois")
+print ("me and hinni are gay bois")
 
 #test1
 #test 2
